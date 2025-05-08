@@ -1,6 +1,12 @@
 #Project overview : 
 the employee management system is used for the HR to maintain the employees and their details and also used for the organizations . 
 
+#Terminal comments to run the project 
+1.open folder
+2.cd Employeemanagement
+3.For frontend - npm run dev
+4.For Backend - npm start
+
 #project workflow: 
 
 first the HR only can login using the login credentials 
